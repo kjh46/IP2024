@@ -7,7 +7,7 @@ homework1 // [https://youtu.be/0t1tboErI4Q](https://youtu.be/gqY9fnXaWYE)
 https://github.com/user-attachments/assets/4e542b0c-8a43-4b0a-a00c-7ce9257be24d
 
 
-homework2 // 
+homework2 // https://youtu.be/QY6EgkxDZfE
 
 
 
