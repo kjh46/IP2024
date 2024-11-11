@@ -17,3 +17,9 @@ https://github.com/user-attachments/assets/12c04517-1c48-41cd-bbad-d1346664f749
 homework3 //
 
 ![스크린샷 2024-10-07 153645](https://github.com/user-attachments/assets/17492c02-ac5a-467a-bf66-2b3f2d488392)
+
+
+
+homework4 //
+
+![homework4](https://github.com/user-attachments/assets/3434f435-c3b4-45d8-b9b6-638dba27d41e)
