@@ -23,3 +23,9 @@ homework3 //
 homework4 //
 
 ![homework4](https://github.com/user-attachments/assets/3434f435-c3b4-45d8-b9b6-638dba27d41e)
+
+
+homework5 //
+
+
+![homework5](https://github.com/user-attachments/assets/1e958212-fe16-41fc-b07b-df1d32884af6)
